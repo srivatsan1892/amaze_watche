@@ -1,0 +1,88 @@
+body{
+  font-family:'Montserrat';
+}
+html,body {
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+}
+#title{
+  background-color:#F06114;
+}
+.navbar-brand{
+  font-weight: bolder;
+  font-size: 20px;
+}
+#men{
+  padding-top:5%;
+  position:static;
+}
+#women{
+    padding-top:5%;
+    position:static;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+ padding-top: 15%;
+ padding-bottom: 5%;
+ font-weight: bold;
+}
+
+.nav-item{
+  margin-left: 50px;
+}
+.nav-link{
+  font-family: 'Montserrat', sans-serif;
+}
+.card-group{
+  position: relative;
+  right: 70px;
+  left: 10px;
+}
+.menwatch{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+text-align: center;
+}
+{
+  position: relative;
+  padding: 7% 15%;
+    background-color:#F06114;
+    width: 100%;
+    height: 100%;
+}
+#Brand{
+  padding: 7% 30%;
+}
+.card-body{
+  align-content: center;
+}
+#About{
+  position: relative;
+  padding: 7% 15%;
+  background-color: #000000;
+  width: 100%;
+  height: 100%;
+}
+.footer{
+position: sticky;
+text-align: center;
+padding-top:  2%;
+color: #F34949;
+}
+
+.h4{
+  padding-top: 3%;
+}
+.info{
+  color: #FC4413;
+  text-align: center;
+  position: sticky;
+}
+.rights{
+  text-align: center;
+  position: sticky;
+}
